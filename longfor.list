@@ -1,0 +1,15 @@
+; Summary: Rule List for Longfor
+; Author: Dan (i@shanhh.com)
+; Date: 2018-10-18
+; URL: http://samabox.com/projects/chrome/switchy/switchyrules.txt
+
+#BEGIN
+
+[Wildcard]
+
+[RegExp]
+
+longfor.net
+longhu.net
+
+#END
